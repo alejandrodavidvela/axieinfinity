@@ -5,8 +5,8 @@
 }
 
 body {
-    background: #3B4B67;
-    color: #fff;
+    background: #ffc8dd;
+    color: #2b2d42;
     font-family: 'Press Start 2P', cursive;
 }
 .axie {
@@ -65,30 +65,30 @@ input[type="text"] {
 .axie-info {
     margin: 20px;
     padding: 10px;
-    border: 2px #ff04b4 dashed;
+    border: 2px #4ea8de dashed;
     border-radius: 5px;
     max-width: 400px;
 }
 
 .axie-address {
     font-size: 8px;
-    color: #ff04b4;
+    color: #5e60ce;
 }
 
 .axie-traits {
-    color: #fff; 
+    color: #2b2d42; 
 }
 
 .axie-traits-link {
-    color: #ff04b4;
+    color: #5e60ce;
 }
 
 .axie-birthday-date {
-    color: #ff04b4;
+    color: #5e60ce;
 }
 
 .axie-title {
-    color: #ff04b4;
+    color: #5e60ce;
     font-size: 25px;
 }
 .axie-title-sub {
@@ -97,12 +97,12 @@ input[type="text"] {
 }
 
 .axie-namebase {
-    color: #fff; 
+    color: #2b2d42; 
     margin-bottom: 50px;
 }
 
 .axie-namebase-link {
-    color: #ff04b4;
+    color: #5e60ce;
 }
 
 .handle{
@@ -112,7 +112,7 @@ input[type="text"] {
 }
 
 .handle-link {
-    color: #fff;
+    color: #5e60ce;
 }
 
 .axie-img {

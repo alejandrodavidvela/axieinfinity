@@ -64,7 +64,7 @@ function searchAxie(e){
                                     <a class="axie-traits-link" href="https://opensea.io/assets/0xF5b0A3eFB8e8E4c201e2A935F110eAaF3FFEcb8d/${term}">OpenSea</a>     
                                 </div>
                                 <div class="axie-namebase">
-                                    <h3>Bid on .phb/:</h3>
+                                    <h3>Bid on .phb/</h3>
                                     <a class="axie-namebase-link" href="https://www.namebase.io/domains/phb">Namebase</a>     
                                 </div>
                                 
