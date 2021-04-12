@@ -9,7 +9,7 @@ body {
     color: #fff;
     font-family: 'Press Start 2P', cursive;
 }
-.chubby {
+.axie {
     max-width: 800px;
     margin-top: 20px;
 }
@@ -62,45 +62,46 @@ input[type="text"] {
 
 }
 
-.chubby-info {
+.axie-info {
     margin: 20px;
     padding: 10px;
     border: 2px #ff04b4 dashed;
     border-radius: 5px;
+    max-width: 400px;
 }
 
-.chubby-address {
+.axie-address {
     font-size: 8px;
     color: #ff04b4;
 }
 
-.chubby-traits {
+.axie-traits {
     color: #fff; 
 }
 
-.chubby-traits-link {
+.axie-traits-link {
     color: #ff04b4;
 }
 
-.chubby-birthday-date {
+.axie-birthday-date {
     color: #ff04b4;
 }
 
-.chubby-title {
+.axie-title {
     color: #ff04b4;
     font-size: 25px;
 }
-.chubby-title-sub {
+.axie-title-sub {
     color: #a0a0a0;
-    font-size: 15px;
+    font-size: 10px;
 }
 
-.chubby-namebase {
+.axie-namebase {
     color: #fff; 
     margin-bottom: 50px;
 }
 
-.chubby-namebase-link {
+.axie-namebase-link {
     color: #ff04b4;
 }
 
@@ -112,6 +113,10 @@ input[type="text"] {
 
 .handle-link {
     color: #fff;
+}
+
+.axie-img {
+    max-width: 400px;
 }
 
 
